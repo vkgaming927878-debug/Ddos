@@ -33,7 +33,7 @@ import select
 from urllib.parse import urlparse
 
 # ---------- CONFIG ----------
-BOT_TOKEN = "8653727963:AAGNCFPNg7Bki4yisK5GGlkwtenQaM2XQw0"
+BOT_TOKEN = "8639883953:AAFgClMxcOBe936nQUQnAzsw_6TIuhCYeZw"
 OWNER_ID = 5340461931
 BLOCKED_PORTS = [22, 23, 3389, 5900, 8080, 8443]
 POWERED_BY = "Powered by Mighty Destroyer"
